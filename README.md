@@ -1,3 +1,7 @@
+# Deprecated!
+
+As of Nov 7th 2022, Manifold Markets Twitch Bot has been merged into the main [Manifold repository](https://github.com/manifoldmarkets/manifold). This repository will no longer receive updates, and may be deleted at any point.
+
 # Manifold Markets Twitch Bot
 
 This repo has everything required to host the Manifold Twitch Bot, and associated overlay and dock browser sources for OBS.
